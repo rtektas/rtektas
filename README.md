@@ -1,57 +1,57 @@
 # Resul Tektas
 
-**Développeur à 42 Brussels 
-📍 Bruxelles, Belgique
+**Developer at 42 Brussels**  
+📍 Brussels, Belgium
 
-Je conçois des applications, des outils système et des projets web. Après avoir terminé le tronc commun de **42 Brussels**. J'aime comprendre comment les choses fonctionnent, de la mémoire et des processus jusqu'aux interfaces et aux bases de données. J'aime particulièrement coder des jeux, et l'univers du gaming m'intéresse beaucoup.
+I build applications, system tools, and web projects. I have completed the **42 Brussels core curriculum**. I enjoy understanding how things work, from memory and processes to interfaces and databases. I particularly enjoy making games, and I'm passionate about gaming.
 
 ---
 
-## Projets 42
+## 42 Projects
 
-| Projet | Ce que j'ai travaillé |
+| Project | What I worked on |
 | --- | --- |
-| **ft_transcendence** | Application web, architecture complète et travail en équipe. |
-| **Minishell** | Parsing, pipes, redirections, variables d'environnement et signaux. |
-| **Inception** | Déploiement de services avec Docker et Docker Compose. |
-| **cub3D** | Rendu 3D par raycasting et gestion des interactions. |
-| **so_long** | Petit jeu 2D, gestion d'une carte et événements clavier. |
-| **NetPractice** | Adressage IP, sous-réseaux et routage. |
-| **Modules C++** | Programmation orientée objet, héritage, polymorphisme, templates et STL. |
+| **ft_transcendence** | A full-stack web application, software architecture, and teamwork. |
+| **Minishell** | Parsing, pipes, redirections, environment variables, and signals. |
+| **Inception** | Deploying services with Docker and Docker Compose. |
+| **cub3D** | 3D rendering with raycasting and handling user interactions. |
+| **so_long** | A small 2D game with map handling and keyboard input. |
+| **NetPractice** | IP addressing, subnetting, and routing. |
+| **C++ Modules** | Object-oriented programming, inheritance, polymorphism, templates, and the STL. |
 
-J'ai également travaillé sur les autres projets du cursus, notamment **Libft**, **ft_printf**, **get_next_line**, **push_swap**, **Philosophers** et **Webserv**.
+I have also worked on other projects from the curriculum, including **Libft**, **ft_printf**, **get_next_line**, **push_swap**, **Philosophers**, and **Webserv**.
 
-🔗 [Explorer mon dépôt Cursus-42](https://github.com/rtektas/Cursus-42)
+🔗 [Explore my Cursus-42 repository](https://github.com/rtektas/Cursus-42)
 
 ---
 
-## Autres projets
+## Other Projects
 
 - [Amazone Game — ULB](https://github.com/rtektas/Amazone-game-ULB)
 - [Vasarely — ULB](https://github.com/rtektas/Vasarely-ULB-)
 
 ---
 
-## Compétences techniques
+## Technical Skills
 
-**Langages**  
+**Languages**  
 C · C++ · Python · Java · JavaScript · C# · Assembly
 
 **Web**  
 HTML · CSS · Bootstrap · React · Node.js
 
-**Bases de données**  
+**Databases**  
 PostgreSQL · MySQL
 
-**Outils et environnement**  
+**Tools and environment**  
 Git · Linux · Bash · Docker
 
 ---
 
-## Ce qui m'intéresse
+## Interests
 
-Développement logiciel · Développement de jeux · Gaming · · Programmation système · Applications web · Architecture et bases de données · Résolution de problèmes
+Software development · Game development · Gaming · Systems programming · Web applications · Software architecture and databases · Problem-solving
 
-**Langues parlées :** français · turc · anglais
+**Spoken languages:** French · Turkish · English
 
-[Voir tous mes dépôts](https://github.com/rtektas?tab=repositories)
+[View all my repositories](https://github.com/rtektas?tab=repositories)
