@@ -34,17 +34,29 @@ I have also worked on other projects from the curriculum, including **Libft**, *
 
 ## Technical Skills
 
-**Languages**  
-C · C++ · Python · Java · JavaScript · C# · Assembly
+### Languages
 
-**Web**  
-HTML · CSS · Bootstrap · React · Node.js
+[![C, C++, Python, Java, JavaScript, C#](https://skillicons.dev/icons?i=c,cpp,py,java,js,cs&perline=6)](https://skillicons.dev)
 
-**Databases**  
-PostgreSQL · MySQL
+**C · C++ · Python · Java · JavaScript · C# · Assembly**
 
-**Tools and environment**  
-Git · Linux · Bash · Docker
+### Web
+
+[![HTML, CSS, Bootstrap, React, Node.js](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs&perline=5)](https://skillicons.dev)
+
+**HTML · CSS · Bootstrap · React · Node.js**
+
+### Databases
+
+[![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgres,mysql&perline=2)](https://skillicons.dev)
+
+**PostgreSQL · MySQL**
+
+### Tools and environment
+
+[![Git, Linux, Bash, Docker](https://skillicons.dev/icons?i=git,linux,bash,docker&perline=4)](https://skillicons.dev)
+
+**Git · Linux · Bash · Docker**
 
 ---
 
